@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from odoo import http
+# from odoo import http
+
 
 # class BranchPolicies(http.Controller):
 #     @http.route('/branch_policies/branch_policies/', auth='public')
